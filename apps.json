@@ -1,0 +1,53 @@
+{
+    "default": {
+        "details": "Chapando na Pedro Lemos..",
+        "state": "",
+        "large_image": "menu",
+        "large_text": "Araxá Launcher",
+        "small_image": "",
+        "small_text": "",
+        "buttons": []
+    },
+
+    "apps": {
+        "GeometryDash.exe": {
+            "details": "Preso e trollado em Araxá por Mil anos",
+            "state": "",
+            "large_image": "contido",
+            "large_text": "",
+            "small_image": "",
+            "small_text": "",
+            "buttons": []
+        },
+
+        "cs2.exe": {
+            "details": "mãe desligou o Wi-fi",
+            "state": "",
+            "large_image": "corda",
+            "large_text": "",
+            "small_image": "",
+            "small_text": "",
+            "buttons": []
+        },
+
+        "pcsx2-qt.exe": {
+            "details": "R2 ∆",
+            "state": "",
+            "large_image": "solto",
+            "large_text": "",
+            "small_image": "",
+            "small_text": "",
+            "buttons": []
+        },
+
+        "javaw.exe": {
+            "details": "",
+            "state": "",
+            "large_image": "solto",
+            "large_text": "",
+            "small_image": "",
+            "small_text": "",
+            "buttons": []
+        }
+    }
+}
