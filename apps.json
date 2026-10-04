@@ -1,10 +1,10 @@
 {
     "default": {
-        "details": "Chapando na Pedro Lemos..",
+        "details": "",
         "state": "",
         "large_image": "menu",
         "large_text": "Araxá Launcher",
-        "small_image": "",
+        "small_image": "bh",
         "small_text": "",
         "buttons": []
     },
@@ -41,9 +41,9 @@
         },
 
         "javaw.exe": {
-            "details": "",
+            "details": "construindo a pedro Lemos 150",
             "state": "",
-            "large_image": "solto",
+            "large_image": "menu",
             "large_text": "",
             "small_image": "",
             "small_text": "",
